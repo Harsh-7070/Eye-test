@@ -1,0 +1,17 @@
+.box-1{
+    width: 60px;
+    height: 60px;
+    border: double black;
+    background-color: aquamarine;
+    color: aqua;
+}
+.box-2{
+    width: 60px;
+    height: 60px;
+    border: double black;
+    background-color: burlywood;
+    color: #ccc;
+}
+.box-1:hover,.box-2:hover{
+    background-color: black;
+}
