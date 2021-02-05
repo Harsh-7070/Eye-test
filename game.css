@@ -1,13 +1,13 @@
 .box-1{
-    width: 60px;
-    height: 60px;
+    width: 80px;
+    height: 80px;
     border: double black;
     background-color: aquamarine;
     color: aqua;
 }
 .box-2{
-    width: 60px;
-    height: 60px;
+    width: 80px;
+    height: 80px;
     border: double black;
     background-color: burlywood;
     color: #ccc;
