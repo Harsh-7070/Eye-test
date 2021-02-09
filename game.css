@@ -7,12 +7,17 @@
     text-align: center;
     font-family: 'Lobster', cursive;
     font-size: 30px;
+    transition-duration: 0.5s ;
 }
 #box-2{
     width: 50%;
     height: 80px;
     border: double black;
     background-color: burlywood;
+    color: #ccc;
+    transition-duration: 0.5s ;
+}
+.box-1:hover,.box-2:hover{
     background-color: black;
     font-family: 'Lobster', cursive;
     text-align:center;
