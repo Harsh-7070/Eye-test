@@ -4,6 +4,7 @@
     border: double black;
     background-color: aquamarine;
     color: aqua;
+    transition-duration: 0.5s ;
 }
 .box-2{
     width: 80px;
@@ -11,6 +12,7 @@
     border: double black;
     background-color: burlywood;
     color: #ccc;
+    transition-duration: 0.5s ;
 }
 .box-1:hover,.box-2:hover{
     background-color: black;
