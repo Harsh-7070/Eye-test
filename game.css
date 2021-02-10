@@ -16,6 +16,7 @@
     background-color: burlywood;
     color: #ccc;
     transition-duration: 0.5s ;
+    text-align: center;
 }
 .box-2:hover,.box-1:hover{
     background-color: black;
